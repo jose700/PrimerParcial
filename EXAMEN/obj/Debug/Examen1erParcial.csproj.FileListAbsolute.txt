@@ -1,0 +1,7 @@
+C:\Users\USUARIO\source\repos\Examen1erParcial\Examen1erParcial\bin\Debug\Examen1erParcial.exe.config
+C:\Users\USUARIO\source\repos\Examen1erParcial\Examen1erParcial\bin\Debug\Examen1erParcial.exe
+C:\Users\USUARIO\source\repos\Examen1erParcial\Examen1erParcial\bin\Debug\Examen1erParcial.pdb
+C:\Users\USUARIO\source\repos\Examen1erParcial\Examen1erParcial\obj\Debug\Examen1erParcial.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\Examen1erParcial\Examen1erParcial\obj\Debug\Examen1erParcial.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Examen1erParcial\Examen1erParcial\obj\Debug\Examen1erParcial.exe
+C:\Users\USUARIO\source\repos\Examen1erParcial\Examen1erParcial\obj\Debug\Examen1erParcial.pdb
